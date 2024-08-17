@@ -8,9 +8,12 @@
 
 ## Projects and Experience
 
-- 🏆 Recently, my team won 3rd prize in a hackathon conducted by Covalience India.
-- 🌐 I'm familiar with web development technologies and have recently attended sessions on TypeScript and Git.
-- 💻 I'm eager to transition into a DevOps role and currently building my roadmap towards it.
+- 🏆 My team won 3rd prize in a hackathon conducted by Covalience India.
+- 🌐 I'm working with modern web development technologies and have recently explored TypeScript and Git.
+
+## What I'm Working On
+
+🚀 Currently, I'm diving into React, building dynamic, responsive web apps while exploring its advanced capabilities. I enjoy learning about state management and optimizing user experiences.
 
 ## Skills
 
