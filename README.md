@@ -1,27 +1,53 @@
-# Hi there, I'm Garvit Chugh! 👋
+# Hi there, I'm Garvit Chugh! 👋  
 
-## About Me
+## About Me  
 
-🎓 I'm currently in my 4th year of engineering in Computer Science at Chitkara University.
+🎓 I am a final-year Computer Science engineering student at Chitkara University, passionate about building efficient and innovative software solutions.  
 
-💼 I'm doing my internship at Covalience India, where I am gaining valuable industry experience and expanding my skill set.
+💼 I recently completed an enriching internship at Covalience India, gaining hands-on experience in frontend web development, enhancing my problem-solving skills, and working on impactful projects.  
 
-## Projects and Experience
+## 🏆 Achievements  
 
-- 🏆 My team won 3rd prize in a hackathon conducted by Covalience India.
-- 🌐 I'm working with modern web development technologies and have recently explored TypeScript and Git.
+- Won **3rd Prize** in a hackathon conducted by Covalience India.  
+- Successfully delivered web applications with optimized user experiences and robust backend support.  
 
-## What I'm Working On
+## 💻 Projects  
 
-🚀 Currently, I'm diving into React, building dynamic, responsive web apps while exploring its advanced capabilities. I enjoy learning about state management and optimizing user experiences.
+- **[WordWeb Dictionary App](https://word-web-dictionary.netlify.app/):**  
+  A dynamic dictionary app built using HTML, CSS, JavaScript, and API integrations.  
 
-## Skills
+- **Task Manager App:**  
+  A React-based task management app with CRUD functionality, custom hooks, and TypeScript for robust type safety and better development practices.  
 
-- **Languages:** JavaScript, TypeScript
-- **Web Development:** HTML, CSS, React
-- **Tools:** Git, GitHub, VSCode
+- **Data Analysis Dashboard:**  
+  Designed interactive dashboards using Power BI and SQL to visualize and analyze large datasets efficiently.  
 
-## Connect with Me
+## 🚀 What I'm Exploring  
 
-- [LinkedIn](https://www.linkedin.com/in/chughgarvit09/)
-- [Email](mailto:gavi.chugh@gmail.com)
+I’m constantly expanding my skill set to include:  
+- Advanced data analysis and visualization techniques.  
+- Backend technologies and scripting for automation.  
+- Optimization of web applications for performance and scalability.  
+
+## 🔧 Skills  
+
+- **Languages:**  
+  - JavaScript, TypeScript, SQL, Bash  
+
+- **Web Development:**  
+  - HTML, CSS, React  
+
+- **Data Analysis Tools:**  
+  - Power BI, Excel  
+
+- **Technologies & Tools:**  
+  - Git, GitHub, VSCode, Linux  
+
+## 📫 Connect with Me  
+
+- **LinkedIn:** [Garvit Chugh](https://www.linkedin.com/in/chughgarvit09/)  
+- **Email:** [gavi.chugh@gmail.com](mailto:gavi.chugh@gmail.com)  
+
+---
+
+Thank you for visiting my profile! Feel free to connect or collaborate on exciting projects. 😊
