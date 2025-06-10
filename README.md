@@ -1,4 +1,4 @@
-![logo](https://github.com/chughgarvit57/chughgarvit57/blob/main/Profile%20Banner.png)
+![logo](https://github.com/chughgarvit57/chughgarvit57/blob/main/SDE_Banner.png)
 <h1 align="center">Hi 👋, I'm Garvit Chugh</h1>
 <h3 align="center">Hey there! 👋 I'm a final-year Computer Science student, always exploring new technologies to build impactful solutions. I love working on the development side, crafting seamless user experiences, and bringing ideas to life through code. 🚀 Let's connect and build something awesome! 💡💻</h3>
 
